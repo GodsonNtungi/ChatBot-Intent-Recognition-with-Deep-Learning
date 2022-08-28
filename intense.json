@@ -1,0 +1,11 @@
+{"intents": [
+  {"tag": "greetings",
+  "patterns": ["hello my good man","hey yoo","good evening","whats poping","yoooo"],
+  "responses": ["Hello","yooo my mannn","whats up","change your life"]},
+    {"tag": "work",
+  "patterns": ["I wanted that product","is the product there ","are the sunglasses available","is there a promotion","whats up yooo"],
+  "responses": ["welcome to our business","wait shortly ","welcome to our humble establishment","welcome welcome"]},
+   {"tag": "education",
+  "patterns": ["where are the books","teaching and stuff","i am in the third class"],
+  "responses": ["welcome to education","That is tanzanian education","what is education","classes are amazing"]}
+]}
